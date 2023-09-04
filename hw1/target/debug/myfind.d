@@ -1,1 +1,0 @@
-/home/moratoryvan/rust/homework/hw1/target/debug/myfind: /home/moratoryvan/rust/homework/hw1/src/find.rs /home/moratoryvan/rust/homework/hw1/src/intersec.rs /home/moratoryvan/rust/homework/hw1/src/main.rs
