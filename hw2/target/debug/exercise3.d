@@ -1,0 +1,1 @@
+/home/moratoryvan/rust/homework/hw2/target/debug/exercise3: /home/moratoryvan/rust/homework/hw2/src/buffer.rs /home/moratoryvan/rust/homework/hw2/src/compare.rs /home/moratoryvan/rust/homework/hw2/src/main.rs
