@@ -1,4 +1,4 @@
-# Myfind 
+# MyRedis
 
 ## 如何在本地构建使用
 
@@ -12,14 +12,7 @@ $ cargo run --bin server        #运行服务端
 $ cargo run --bin client [cmd]  #运行客户端
 ```
 
-可执行文件 `myfind` 随后会出现在 `target/debug` 下。
-
-
 ## 用法
-
-```
-./myfind -v -path [path] -name [expression]
-```
 
 `cmd` 格式
 
