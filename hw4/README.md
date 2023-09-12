@@ -14,9 +14,9 @@ $ cargo test
 ```
 hw4
 ├─ src
-│  ├─ executor.rs           // 实现 hash 表
+│  ├─ executor.rs           
 │  ├─ main.rs               // 测试
-│  ├─ waker.rs               // 实现 MyRc 智能指针
+│  ├─ waker.rs               
 ├─ Cargo.lock
 ├─ Cargo.toml
 └─ README.md
